@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=Kevin+Gaban;Software+Engineer+%7C+SDET;Prev:+Charles+Schwab,+Morgan+Stanley,+ETRADE;" alt="Typing SVG" />
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/kevingaban/">
+<a href="https://www.linkedin.com/in/kevingaban/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:kgaban@gmail.com">
