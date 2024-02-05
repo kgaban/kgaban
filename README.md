@@ -25,7 +25,7 @@
 
 * 📖 Expert in FinTech & Automation
 * 🎓 Michigan State University graduate
-* 💻 **Programming Languages:**
+<!--* 💻 **Programming Languages:**
     * Python, JavaScript (Node.js/React), Java & Spring Framework
 * 💻 **Databases/Data Stores:**
     * MongoDB, PostgreSQL, Redis
@@ -35,3 +35,4 @@
     * Git, Jenkins, Bamboo, JIRA & XRAY (Test Management)
 * 💻 **Misc:**
     * ETL (Extract, Transform, Load), REST APIs & Microservices, Automated Testing
+-->
